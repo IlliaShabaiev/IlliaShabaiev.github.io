@@ -1,0 +1,23 @@
+/* proacting styles */
+
+body {
+	background-color: lightblue;
+	color: yellow;
+
+}
+
+h1 {
+	font-family : Arial;
+	text-decoration: none;
+}
+img {
+	width: 10%;
+	height: 15%;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+
+
