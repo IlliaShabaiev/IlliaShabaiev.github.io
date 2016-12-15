@@ -1,23 +1,14 @@
 /* proacting styles */
 
 body {
-	background-color: lightblue;
+	background-color: #ccc;
 	color: yellow;
 
 }
 
 h1 {
-	font-family : Arial;
-	text-decoration: none;
+	font-family: 'Molle', cursive;
+		text-decoration: none;
 }
-img {
-	width: 10%;
-	height: 15%;
-}
-
-ul li {
-	list-style-type: none;
-}
-
 
 
